@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Working as Network Administrator at Encompass Digital Media Inc.
-- 🤔 &nbsp; +10 years of experience as Network Administrator. 
+- 🤔 &nbsp; +10 years of experience maintaining large data networks.
 - 🎓 &nbsp; Exploring new technologies: Data Analitycs. Data Scientist. Full Stack Developer. System Analyst.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
