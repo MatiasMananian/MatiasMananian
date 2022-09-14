@@ -28,9 +28,10 @@
  
  - ® &nbsp; 
   ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
-  ![Palo Alto Networks](https://img.shields.io/badge/-paloaltosoftware-333333?style=flat&logo=paloaltosoftware)
-  ![Fortinet](https://img.shields.io/badge/-fortinet-333333?style=flat&logo=fortinet)
+  ![Palo Alto Networks](https://img.shields.io/badge/-Palo%20Alto%20Networks-333333?style=flat&logo=paloaltosoftware)
+  ![Fortinet](https://img.shields.io/badge/-Fortinet-333333?style=flat&logo=fortinet)
   ![Dell](https://img.shields.io/badge/-Dell-333333?style=flat&logo=Dell)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   
   
 
