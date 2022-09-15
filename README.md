@@ -1,11 +1,15 @@
+<img height="250em" align="left" src="https://lh3.googleusercontent.com/a-/AFdZucrWEOu8ZjtLm4L37O9oQfakqz55KE6uKCXL2omEeA=s288-p-rw-no"/>
+
 <h2> Hey there! I'm Matias.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 align="left"> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-- 💼 &nbsp; Working as Network Administrator at Encompass Digital Media Inc.
-- 🤔 &nbsp; +10 years of experience maintaining large data networks.
-- 🎓 &nbsp; Exploring new technologies: Data Analitycs. Data Scientist. Full Stack Developer. System Analyst.
-
+<div align="left">
+<p> 💼 &nbsp; Working as Network Administrator at Encompass Digital Media Inc. </p>
+<p> 🤔 &nbsp; +10 years of experience maintaining large data networks. </p>
+<p> 🎓 &nbsp; Exploring new technologies: Data Analitycs. Data Scientist. Full Stack Developer. System Analyst. </p>
+</div>
+<br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
