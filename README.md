@@ -35,6 +35,7 @@
   ![Palo Alto Networks](https://img.shields.io/badge/-Palo%20Alto%20Networks-333333?style=flat&logo=paloaltosoftware)
   ![Fortinet](https://img.shields.io/badge/-Fortinet-333333?style=flat&logo=fortinet)
   ![Dell](https://img.shields.io/badge/-Dell-333333?style=flat&logo=Dell)
+  ![HP](https://img.shields.io/badge/-HP-333333?style=flat&logo=HP)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   
   
