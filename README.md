@@ -20,7 +20,14 @@
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  <br>
+  &nbsp; &nbsp; &nbsp; &nbsp; 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+  ![Google Colab](https://img.shields.io/badge/-Goggle%20Colab-333333?style=flat&logo=googlecolab)
+
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
